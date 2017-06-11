@@ -1,0 +1,6 @@
+C:\Projects\NumberGusser\bin\Debug\NumberGusser.exe.config
+C:\Projects\NumberGusser\bin\Debug\NumberGusser.exe
+C:\Projects\NumberGusser\bin\Debug\NumberGusser.pdb
+C:\Projects\NumberGusser\obj\Debug\NumberGusser.csprojResolveAssemblyReference.cache
+C:\Projects\NumberGusser\obj\Debug\NumberGusser.exe
+C:\Projects\NumberGusser\obj\Debug\NumberGusser.pdb
